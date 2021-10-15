@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MyWorld\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=MyWorld()
+comment1.text=\r\n\ Inits\ all\ world\ values\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Runs\ every\ frame.\r\n
+comment3.params=ID
+comment3.target=void\ loadTheme(int)
+comment3.text=\r\n\ Changes\ the\ overall\ look\ of\ the\ stage\ /\ world\r\n
+comment4.params=objectID
+comment4.target=void\ usePowerup(powerup)
+comment4.text=\r\n\ usePowerup(powerup\ objectID)\ -\ Takes\ the\ effect\ of\ the\ powerup,\ applies\ it\ then\ deletes\ the\ displayed\ powerup.\r\n
+comment5.params=
+comment5.target=void\ createPowerup()
+comment5.text=\r\n\ Creates\ a\ new\ powerup\ on\ coords\r\n
+comment6.params=
+comment6.target=void\ prepare()
+comment6.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\r\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\r\n
+numComments=7

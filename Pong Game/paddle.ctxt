@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=paddle
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ paddleLeft\ here.\r\n\ \r\n\ @author\ David\ Reyes\r\n\ @version\ 1\r\n
+comment1.params=newName\ up\ down\ left\ right
+comment1.target=paddle(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Inits\ the\ needed\ values\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Runs\ every\ frame\ and\ checks\ if\ the\ players\ keys\ are\ being\ pressed\ to\ move\ up,\ down,\ left,\ or\ right.\r\n
+comment3.params=
+comment3.target=void\ updateKeys()
+comment3.text=\r\n\ Verifys\ which\ of\ the\ keys\ are\ down\ and\ is\ customizable\ for\ 4\ different\ keys\ all\ being\ required.\r\n
+comment4.params=
+comment4.target=void\ movePaddle()
+comment4.text=\r\n\ Checks\ for\ keypresses\ and\ then\ sets\ movement\r\n
+numComments=5
